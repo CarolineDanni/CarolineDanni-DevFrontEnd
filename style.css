@@ -81,7 +81,11 @@ p {
     font-family: "Open Sans", sans-serif;
     color: white; 
     padding: 25px 25px;
-    justify-content: space-around    
+    justify-content: space-around; 
+    transition: all 350ms;   
+}
+.midiasocial li a:hover {
+    color: rgb(235, 8, 159);
 }
 
 .midiasocial .icone {
